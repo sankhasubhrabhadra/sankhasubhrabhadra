@@ -1,14 +1,16 @@
 ﻿<div align="center">
 
-  # Hi there, I'm Sankha Subhra Bhadra 👋
-  ### 💻 Software Developer | Problem Solver | Tech Enthusiast
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Sankha%20Subhra%20Bhadra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%92%BB%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
 
+  <!-- Typing Animation -->
   <p align="center">
     <a href="https://github.com/sankhasubhrabhadra">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
     </a>
   </p>
 
+  <!-- Profile Badges & Social Links -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sankhasubhrabhadra&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/sankhasubhrabhadra?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
@@ -16,7 +18,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sankha-subhra-bhadra-97487138b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:youremail@example.com">
       <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -30,11 +32,8 @@
 ### 🐍 Contribution Graph & Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankhasubhrabhadra/sankhasubhrabhadra/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankhasubhrabhadra/sankhasubhrabhadra/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sankhasubhrabhadra/sankhasubhrabhadra/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/sankhasubhrabhadra/sankhasubhrabhadra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake (Dark)" width="100%" />
+  <img src="https://raw.githubusercontent.com/sankhasubhrabhadra/sankhasubhrabhadra/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake (Light)" width="100%" />
 </div>
 
 ---
@@ -45,7 +44,7 @@
 - 🌱 **Currently learning:** Data Structures, Algorithms & Modern Web Technologies
 - 🤝 **Open to collaboration:** Open Source Projects & Innovative Ideas
 - 📚 **Areas of interest:** Web Development, Artificial Intelligence & System Design
-- 🎯 **Goals:** Continuous learning and building software that creates an impact
+- 🎯 **Goals:** Continuous learning and building impactful software solutions
 - ⚡ **Fun fact:** My code compiles on the second try 😄
 
 ---
@@ -74,23 +73,12 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sankhasubhrabhadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhasubhrabhadra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=sankhasubhrabhadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhasubhrabhadra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhasubhrabhadra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com/?user=sankhasubhrabhadra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankhasubhrabhadra&custom_title=Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="Activity Graph" width="97%" />
-  </p>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sankhasubhrabhadra&theme=tokyonight&row=1&column=6&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
